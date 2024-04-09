@@ -11,19 +11,20 @@ Veja aqui os detalhes do projeto no [Figma](https://www.figma.com/file/HE0J9JzhU
 
 Antes de inicializar o projeto, é necessáio instalar o [Node.js](https://nodejs.org/en)
 
-Após a instalação, é preciso executar o [repositório back-end da aplicação](https://github.com/joanasouzaa/nlw-unite-pass.in-nodejs)
+Após a instalação, é preciso executar o [repositório back-end da aplicação](https://github.com/joanasouzaa/nlw-unite-pass.in-nodejs)</br>
+Em seguida, clone este respositório:
 ```
 https://github.com/joanasouzaa/nlw-unite-pass.in-react.git
 ```
-Acesse o diretório da aplicação
+Acesse o diretório da aplicação:
 ```
 cd pass-in-web
 ```
-Instale as dependências
+Instale as dependências:
 ```
 npm install
 ```
-Execute a aplicação
+Execute a aplicação:
 ```
 npm run dev
 ```
