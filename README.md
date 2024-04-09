@@ -9,7 +9,7 @@ Veja aqui os detalhes do projeto no [Figma](https://www.figma.com/file/HE0J9JzhU
 
 ## Como executar
 
-Antes de inicializar o projeto, é necessáio instalar o [Node.js](https://nodejs.org/en)
+Antes de inicializar o projeto, é necessáio instalar o [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 
 Após a instalação, é preciso executar o [repositório back-end da aplicação](https://github.com/joanasouzaa/nlw-unite-pass.in-nodejs)</br>
 Em seguida, clone este respositório:
